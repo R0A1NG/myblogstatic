@@ -1,6 +1,6 @@
 var stop, staticx;
 var img = new Image();
-img.src = "./sakura.png";
+img.src = "https://cdn.jsdelivr.net/gh/kaliisra/myblogstatic/huabantexiao/sakura.png";
 
 function Sakura(x, y, s, r, fn) {
     this.x = x;
